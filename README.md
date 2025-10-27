@@ -28,6 +28,9 @@ It provides actionable insights to help businesses reduce churn and improve cust
 📂 Files Included
 
 Customer Churn Analysis.pbix – Power BI file
+
 Telco_Customer_Churn_Dataset (2).csv – Dataset used
+
 README.md – Documentation
+
 Churn Dashboard.png
