@@ -1,4 +1,5 @@
 📊 Customer-Churn-Analysis-PowerBI
+📍 Developed during my Power BI Internship at Saiket Systems
 
 📝 Project Overview
 This Power BI dashboard analyzes customer churn data to identify key factors affecting customer retention and service usage patterns.  
